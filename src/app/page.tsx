@@ -59,6 +59,7 @@ const MathCalculator = () => {
 
       setResult(calculationResult.toFixed(4).replace(/\.?0+$/, ''))
     } catch (err) {
+      console.error(err)
       setError('An error occurred during calculation.')
     }
   }
