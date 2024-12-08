@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# math_calculator
+A simple math calculator that performs basic arithmetic operations.
+
+🧮 A Fun Math Calculator 🧮
+
+This calculator can do all sorts of cool tricks!
+
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+How to use it:
+
+🔢 Input: Type in two numbers and choose an operation.
+🚀 Calculate: Click the button to watch the magic happen!
+🎉 Output: Ta-da! Your answer appears.
+Let's make it even better together!
+>>>>>>> 3f17ab0621442b6530edd3a92efd5ad77700b23a
